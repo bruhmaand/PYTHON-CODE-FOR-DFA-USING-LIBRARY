@@ -1,6 +1,6 @@
 # Design a program for accepting Binary string divisible by 2.
 
-# pip install automata-lib
+# pip install automata-lib on terminal or CMD
 from automata.fa.dfa import DFA
 
 dfa = DFA(
